@@ -1,0 +1,9 @@
+.main-label{
+    font-family: "Fira Code", monospace;
+    font-weight: 400;
+    color: var(--color-third);
+    display: block;
+    text-align: center;
+    font-size: 25px;
+  
+}
